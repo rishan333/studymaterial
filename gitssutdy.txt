@@ -1,1 +1,6 @@
 git studies
+dir - to show directory
+mkdir - to create 
+rmdir - to remove 
+cd
+del
