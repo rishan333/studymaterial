@@ -4,3 +4,7 @@ mkdir - to create
 rmdir - to remove 
 cd
 del
+git status
+git add
+git commit -m
+git push
